@@ -1,0 +1,16 @@
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..exe
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..deps.json
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..runtimeconfig.json
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..runtimeconfig.dev.json
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..dll
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\ref\GENERICS..dll
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\bin\Debug\net5.0\GENERICS..pdb
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..csproj.AssemblyReference.cache
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..dll
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\ref\GENERICS..dll
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..pdb
+D:\OneDrive\Рабочий стол\Development\GENERICS\GENERICS\obj\Debug\net5.0\GENERICS..genruntimeconfig.cache
